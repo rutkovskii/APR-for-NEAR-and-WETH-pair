@@ -7,7 +7,7 @@ Entire process can be automated and calculated fully programmatically, but here 
 Also, my results are more accurate than the ones provided by vfat because in his calculations the underlying assumption
 was that one block is created in 1.1 second, but in reality `blocks_per_day` prints the accurate time to create a block.
 
-###Files
+### Files
 
 * main.py — to run on in the terminal by typing `python3 main.py`
 * flaskMain.py — to run a flask server on local network by typing `python3 flaskMain.py`
